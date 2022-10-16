@@ -1,2 +1,1 @@
-# random_sites
-# just a random website repository
+## random website repository for any front-end work I want to do, I mainly do back-end so this repository is most-likely dead, if you want to see some of my real projects go to. (https://github.com/codi-ng/javascript-projects)
